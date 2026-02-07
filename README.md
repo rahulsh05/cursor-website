@@ -19,37 +19,38 @@ This project is a front-page recreation of the Cursor website using HTML and CSS
 ## Screenshots
 
 ### Hero & Navigation
-![Nav-bar](screenshots/output1.png)
+![Nav-bar](output1.png)
 
-![Hero](screenshots/output2.png)
+![Hero](output2.png)
 
 ### Product Preview
-![Product](screenshots/output3.png)
+![Product](output3.png)
 
 ### Trusted Companies
-![Trusted By](screenshots/output4.png)
+![Trusted By](output4.png)
 
 ### Features – Agents
-![Agents](screenshots/output5.png)
+![Agents](output5.png)
 
 ### Features – Autocomplete & Integrations
-![Autocomplete](screenshots/output6.png)
+![Autocomplete](output6.png)
 
 ### Testimonials
-![Testimonials](screenshots/output7.png)
+![Testimonials](output7.png)
 
 ### Stay on the Frontier
-![Stay](screenshots/output8.png)
+![Stay](output8.png)
 
 ### Changelog
-![Changelog](screenshots/output9.png)
+![Changelog](output9.png)
 
 ### Company / Join Us
-![Company](screenshots/output10.png)
+![Company](output10.png)
 
 ### Footer
-![Footer](screenshots/output11.png)
+![Footer](output11.png)
 
 ## Live Demo
 [https://your-username.github.io/cursor-website-clone/](https://rahulsh05.github.io/cursor-website/)
+
 

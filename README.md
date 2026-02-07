@@ -23,28 +23,28 @@ This project is a front-page recreation of the Cursor website using HTML and CSS
 
 ![Hero](output2.png)
 
-### Product Preview
+### Preview
 ![Product](output3.png)
 
-### Trusted Companies
+### Preview
 ![Trusted By](output-4.png)
 
-### Features – Agents
+### Preview
 ![Agents](output5.png)
 
-### Features – Autocomplete & Integrations
+### Quotes
 ![Autocomplete](output6.png)
 
-### Testimonials
+### Stay on Frontier
 ![Testimonials](output7.png)
 
-### Stay on the Frontier
+### Changelog
 ![Stay](output8.png)
 
-### Changelog
+### Preview
 ![Changelog](output9.png)
 
-### Company / Join Us
+### Try cursor now
 ![Company](ouput10.png)
 
 ### Footer
@@ -52,6 +52,7 @@ This project is a front-page recreation of the Cursor website using HTML and CSS
 
 ## Live Demo
 [https://your-username.github.io/cursor-website-clone/](https://rahulsh05.github.io/cursor-website/)
+
 
 
 

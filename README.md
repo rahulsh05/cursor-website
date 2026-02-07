@@ -51,4 +51,5 @@ This project is a front-page recreation of the Cursor website using HTML and CSS
 ![Footer](screenshots/output11.png)
 
 ## Live Demo
-https://your-username.github.io/cursor-website-clone/
+[https://your-username.github.io/cursor-website-clone/](https://rahulsh05.github.io/cursor-website/)
+

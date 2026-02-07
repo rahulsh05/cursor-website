@@ -45,13 +45,14 @@ This project is a front-page recreation of the Cursor website using HTML and CSS
 ![Changelog](output9.png)
 
 ### Company / Join Us
-![Company](ouput.png)
+![Company](ouput10.png)
 
 ### Footer
 ![Footer](output11.png)
 
 ## Live Demo
 [https://your-username.github.io/cursor-website-clone/](https://rahulsh05.github.io/cursor-website/)
+
 
 
 

@@ -27,7 +27,7 @@ This project is a front-page recreation of the Cursor website using HTML and CSS
 ![Product](output3.png)
 
 ### Trusted Companies
-![Trusted By](output4.png)
+![Trusted By](output-4.png)
 
 ### Features – Agents
 ![Agents](output5.png)
@@ -45,12 +45,13 @@ This project is a front-page recreation of the Cursor website using HTML and CSS
 ![Changelog](output9.png)
 
 ### Company / Join Us
-![Company](output10.png)
+![Company](ouput.png)
 
 ### Footer
 ![Footer](output11.png)
 
 ## Live Demo
 [https://your-username.github.io/cursor-website-clone/](https://rahulsh05.github.io/cursor-website/)
+
 
 
